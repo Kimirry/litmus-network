@@ -1,0 +1,26 @@
+{
+  "heading": "Available Packages",
+  "packages": [
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 10,
+      "duration": "1 Month",
+      "description": "Suitable for light users"
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": 25,
+      "duration": "3 Months",
+      "description": "Best value for regular users"
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": 45,
+      "duration": "6 Months",
+      "description": "For heavy users and professionals"
+    }
+  ]
+}
